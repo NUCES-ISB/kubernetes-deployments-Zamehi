@@ -1,0 +1,8 @@
+NAME        READY   UP-TO-DATE   AVAILABLE   AGE
+flask-app   1/1     1            1           29m
+NAME                         READY   STATUS        RESTARTS   AGE
+flask-app-69844c4889-cz4ph   1/1     Terminating   0          15m
+flask-app-69844c4889-hlh7k   1/1     Terminating   0          50s
+flask-app-69844c4889-hqsdf   1/1     Terminating   0          50s
+flask-app-69844c4889-vn9qs   1/1     Running       0          15m
+postgres-ffbfc788b-6xjks     1/1     Running       0          29m
